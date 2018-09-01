@@ -12,7 +12,7 @@ Platzom es un idioma inventado para el [curso de fundamentos de JavaScript](http
 ## Instalación
 
 ```bash
-npm install platzom
+npm install @isacs33/platzom
 ```
 
 ## Uso
